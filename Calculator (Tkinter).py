@@ -1,7 +1,6 @@
 from tkinter import *
 
 root = Tk()
-root.iconbitmap("D:\Indie\Celeste\Celeste.exe")
 root.title("Calculator")
 
 def str_add(a):
